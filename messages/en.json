@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "Larissa Ribeiro, Paralegal | Car Accidents Across the U.S.",
+    "description": "Injured in a car accident in the U.S.? I'm Larissa Ribeiro, a paralegal at Berman Law Group. I assist clients in English, Spanish and Portuguese.",
+    "ogLocale": "en_US"
+  },
+  "common": {
+    "skipToContent": "Skip to main content",
+    "opensInNewTab": "(opens in a new tab)",
+    "languageSwitcherLabel": "Language"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "how": "How I help",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "WhatsApp",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menuTitle": "Menu",
+    "menuDescription": "Navigation, language and theme",
+    "themeToggle": "Switch between light and dark theme"
+  },
+  "whatsappMessage": "Hi Larissa! I saw your website and I'd like to talk about a car accident.",
+  "hero": {
+    "headlineLead": "If you or someone you know",
+    "headlineMain": "has been injured in a car accident,",
+    "handwritten": "I'm here to help. 💜",
+    "intro": "I assist clients across the United States and will do my best to guide you through the process.",
+    "ctaWhatsapp": "Chat on WhatsApp",
+    "ctaCall": "Call",
+    "ctaEmail": "Send an email",
+    "photoAlt": "Larissa Ribeiro smiling, wearing a white blouse with black polka dots",
+    "badgeLanguages": "English, español and português"
+  },
+  "how": {
+    "title": "How I can help",
+    "intro": "One step at a time, at your pace.",
+    "steps": {
+      "contact": {
+        "title": "You reach out",
+        "text": "Message me on WhatsApp, call, or send an email and tell me what happened, at your own pace."
+      },
+      "guidance": {
+        "title": "I listen and guide",
+        "text": "I explain how the process usually works and which information and documents are worth gathering."
+      },
+      "referral": {
+        "title": "I refer you to an attorney",
+        "text": "When your case needs an attorney, I refer you to the attorneys at Berman Law Group."
+      },
+      "followUp": {
+        "title": "I stay by your side",
+        "text": "I stay available to answer questions and keep in touch through the next stages."
+      }
+    }
+  },
+  "about": {
+    "title": "About Larissa",
+    "lead": "I'm Larissa Ribeiro, a paralegal (non attorney) at Berman Law Group. My job is to welcome people who were hurt in a car accident and explain, in plain language, where to start.",
+    "closing": "I speak your language, and I know a moment like this can be confusing. I'm here to listen and guide you, with no rush.",
+    "highlights": {
+      "languages": "I speak English, Spanish and Portuguese",
+      "coverage": "I assist clients across the United States",
+      "firm": "Paralegal at Berman Law Group, with its main office in Boca Raton, FL"
+    },
+    "photoAlt": "Portrait of Larissa Ribeiro smiling"
+  },
+  "coverage": {
+    "statement": "I assist clients across the United States.",
+    "invitation": "Count on me! 💜"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "intro": "Pick the way that feels most comfortable to you.",
+    "whatsappCta": "Chat on WhatsApp",
+    "phoneLabel": "Phone",
+    "officePrefix": "Office",
+    "faxPrefix": "Fax",
+    "emailLabel": "Email",
+    "websiteLabel": "Website",
+    "office": "Main office in Boca Raton, FL"
+  },
+  "footer": {
+    "disclaimerRole": "Larissa Ribeiro is a paralegal (non attorney) and is not a lawyer. She does not provide legal advice or represent clients.",
+    "disclaimerInfo": "The information on this website is general and for informational purposes only. It is not legal advice, and contacting us through this website does not create an attorney-client relationship.",
+    "attorneyAdvertising": "Attorney Advertising"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The address you opened does not exist.",
+    "cta": "Go to the home page"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "Larissa Ribeiro, Paralegal | Accidente de auto en EE. UU.",
+    "description": "¿Sufrió un accidente de auto en EE. UU.? Soy Larissa Ribeiro, paralegal en Berman Law Group. Atiendo en español, portugués e inglés.",
+    "ogLocale": "es_US"
+  },
+  "common": {
+    "skipToContent": "Ir al contenido principal",
+    "opensInNewTab": "(se abre en una pestaña nueva)",
+    "languageSwitcherLabel": "Idioma"
+  },
+  "nav": {
+    "label": "Navegación principal",
+    "how": "Cómo ayudo",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "cta": "WhatsApp",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "menuTitle": "Menú",
+    "menuDescription": "Navegación, idioma y tema",
+    "themeToggle": "Alternar entre tema claro y oscuro"
+  },
+  "whatsappMessage": "¡Hola, Larissa! Vi su página y me gustaría conversar sobre un accidente de auto.",
+  "hero": {
+    "headlineLead": "Si usted o alguien que conoce",
+    "headlineMain": "sufrió un accidente de auto,",
+    "handwritten": "estoy aquí para ayudar. 💜",
+    "intro": "Atiendo casos en todo Estados Unidos y haré todo lo posible para orientarle durante este proceso.",
+    "ctaWhatsapp": "Escribir por WhatsApp",
+    "ctaCall": "Llamar",
+    "ctaEmail": "Enviar correo",
+    "photoAlt": "Larissa Ribeiro sonriendo, con blusa blanca de lunares negros",
+    "badgeLanguages": "Español, português y English"
+  },
+  "how": {
+    "title": "Cómo puedo ayudarle",
+    "intro": "Un paso a la vez, a su ritmo.",
+    "steps": {
+      "contact": {
+        "title": "Usted habla conmigo",
+        "text": "Escríbame por WhatsApp, llámeme o envíeme un correo y cuénteme lo que pasó, a su ritmo."
+      },
+      "guidance": {
+        "title": "Escucho y oriento",
+        "text": "Le explico cómo suele funcionar el proceso y qué información y documentos conviene reunir."
+      },
+      "referral": {
+        "title": "Derivo su caso a un abogado",
+        "text": "Cuando su caso lo requiere, hago la derivación al equipo de abogados de Berman Law Group."
+      },
+      "followUp": {
+        "title": "Estoy cerca durante el proceso",
+        "text": "Sigo disponible para resolver dudas y mantener el contacto en las etapas siguientes."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Larissa",
+    "lead": "Soy Larissa Ribeiro, paralegal (non attorney) en Berman Law Group. Mi trabajo es recibir con atención a quien sufrió un accidente de auto y explicar, en palabras sencillas, por dónde empezar.",
+    "closing": "Hablo su idioma y sé que un momento así puede resultar confuso. Estoy aquí para escuchar y orientar, sin prisa.",
+    "highlights": {
+      "languages": "Hablo español, portugués e inglés",
+      "coverage": "Atiendo casos en todo Estados Unidos",
+      "firm": "Paralegal en Berman Law Group, con oficina principal en Boca Raton, FL"
+    },
+    "photoAlt": "Retrato de Larissa Ribeiro sonriendo"
+  },
+  "coverage": {
+    "statement": "Atiendo casos en todo Estados Unidos.",
+    "invitation": "¡Cuente conmigo! 💜"
+  },
+  "contact": {
+    "title": "Hable conmigo",
+    "intro": "Elija el medio con el que se sienta más cómodo.",
+    "whatsappCta": "Conversar por WhatsApp",
+    "phoneLabel": "Teléfono",
+    "officePrefix": "Oficina",
+    "faxPrefix": "Fax",
+    "emailLabel": "Correo electrónico",
+    "websiteLabel": "Sitio web",
+    "office": "Oficina principal en Boca Raton, FL"
+  },
+  "footer": {
+    "disclaimerRole": "Larissa Ribeiro es paralegal (non attorney) y no es abogada. Ella no brinda asesoría legal ni representa a clientes.",
+    "disclaimerInfo": "La información de este sitio es general y tiene carácter informativo. No constituye asesoría legal, y el contacto a través de este sitio no crea una relación entre abogado y cliente.",
+    "attorneyAdvertising": "Attorney Advertising (publicidad de abogados)"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "La dirección que abrió no existe.",
+    "cta": "Ir al inicio"
+  }
+}
