@@ -42,9 +42,10 @@ export default async function RootLayout({ children }: LayoutProps<"/[lang]">) {
     <html
       lang={locale}
       suppressHydrationWarning
+      data-scroll-behavior="smooth"
       className={`${nunito.variable} ${fraunces.variable} ${caveat.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col">
+      <body className="flex min-h-full flex-col" suppressHydrationWarning>
         <AppProviders>{children}</AppProviders>
       </body>
     </html>
